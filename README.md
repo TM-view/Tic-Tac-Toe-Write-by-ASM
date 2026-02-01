@@ -1,1 +1,2 @@
-# Tic-Tac-Toe-Write-by-ASM
+## Tic-Tac-Toe-Write-by-ASM
+This is my second year project. The teacher had a problem to make any electrical circuit by writing a program in assembly language into the ATmega328P, so I wanted to try making a simple game. Watch it and it becomes a game of Tic Tac Toe.
